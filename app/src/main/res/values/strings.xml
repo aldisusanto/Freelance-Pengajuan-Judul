@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Pengajuan Tugas Akhir</string>
+    <string name="hint_nim">NIM/NIDN</string>
+    <string name="username_hint">NIM/NIDN</string>
+    <string name="password_hint">Password</string>
+    <string name="text_continue">Login</string>
+    <string name="text_menu_status">Status</string>
+    <string name="text_menu_submit">Pengumpulan Tugas Akhir</string>
+    <string name="text_forgot_password">Lupa Password?</string>
+    <string name="name_hint">Masukkan Nama</string>
+    <string name="text_alert_sample">Download contoh form melalui tombol dibawah ini.</string>
+    <string name="text_download">Download</string>
+    <string name="text_header_upload">Upload File</string>
+    <string name="text_add_file">Upload File disini..</string>
+    <string name="text_submit">Submit</string>
+    <string name="text_detail">Lihat Status</string>
+    <string name="text_header_revision">Revisi</string>
+    <string name="text_form">Pengumpulan Tugas Akhir</string>
+    <string name="hint_title">Judul Skripsi</string>
+    <string name="text_delete">Hapus</string>
+    <string name="text_role_hint">Select Level</string>
+    <string name="text_menu_check_thesis">Cek Pengajuan Tugas Akhir</string>
+    <string name="text_menu_history">Riwayat Pengecekan</string>
+    <string name="text_detail_2">Lihat Detail</string>
+    <string name="view_file">Lihat File</string>
+    <string name="text_reject">Tolak</string>
+    <string name="text_accept">Terima</string>
+    <string name="text_pending">Pending</string>
+    <string name="text_send_revision">Kirim Revisi</string>
+    <string name="upload_image">Pilih Gambar</string>
+    <string name="view_image">Lihat Gambar</string>
+</resources>
